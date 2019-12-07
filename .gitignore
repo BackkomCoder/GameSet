@@ -1,0 +1,9 @@
+01Tetris/Library
+01Tetris/obj
+01Tetris/Logs
+01Tetris/Temp
+*.vs
+*.csproj
+*.sln
+
+
